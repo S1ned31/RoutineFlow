@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="redact_profile">Redact profile</string>
+    <string name="sign_out">Sign out</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="nickname">Nickname</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_text_of_profile">Change text of profile</string>
+</resources>
