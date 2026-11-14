@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309882388757",
+    "project_id": "hbttracker",
+    "storage_bucket": "hbttracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309882388757:android:5a0d28aef88862267e291c",
+        "android_client_info": {
+          "package_name": "com.busol.habittracker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309882388757-7g1jgfim3tkcq67bnasnosebm3e1pipd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busol.habittracker.app",
+            "certificate_hash": "7991819aecd854cf0933925898d66cea034c0c7b"
+          }
+        },
+        {
+          "client_id": "309882388757-4327vfpc012pbvd1cikublc8h09h5f8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKdciApzVVLXLiu95pbvm7520r7G9X-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309882388757-4327vfpc012pbvd1cikublc8h09h5f8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

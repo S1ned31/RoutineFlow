@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://th.bing.com/th/id/OIP.tebWFJZqzTHTJ2rqSAVaLwHaEK?rs=1&pid=ImgDetMain",
+      "title": "Building Healthy Habits",
+      "text": "Creating healthy habits is essential for improving well-being. Start with small, manageable changes in your daily routine, like drinking more water, eating nutritious meals, and getting enough sleep. These habits can have a significant impact over time, helping you build resilience and enhancing your quality of life.",
+      "readingTime": "5 min"
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th/id/R.294223ac6fd34c57c019313bea5fd3b0?rik=MrnUpidHqd%2fzLg&riu=http%3a%2f%2fwealth.my%2fwp-content%2fuploads%2f2017%2f01%2fDeveloping-Good-Habits.jpg&ehk=2l0dbGOHOwmP4KNBxMFoTYh43FQszzPtjtN4T3YbwiY%3d&risl=&pid=ImgRaw&r=0",
+      "title": "Establishing a Productive Morning Routine",
+      "text": "A structured morning routine can set a positive tone for the entire day. Begin by setting a consistent wake-up time, followed by engaging in activities like stretching, journaling, or planning your goals. This practice helps you focus, reduces stress, and prepares you mentally for the day ahead.",
+      "readingTime": "4 min"
+    }
+  ]
+}
